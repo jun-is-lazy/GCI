@@ -1,3 +1,3 @@
 # GCI
 GCI beginner task
->>pizza
+>pizza
